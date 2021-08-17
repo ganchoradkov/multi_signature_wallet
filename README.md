@@ -1,4 +1,4 @@
-# Implementation of Multi Signature Wallet
+# Multi Signature Wallet
 
 This smart contract is an implementation of a multi signature wallet, meaning, it requires multiple confirmations before confirming/paying out transactions.
 The number of required transactions is defined by the deployer at the time of contract deployment.
